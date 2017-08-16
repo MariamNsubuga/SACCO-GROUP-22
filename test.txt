@@ -1,0 +1,17 @@
+login	eric
+benefits check
+check contribution
+logout
+
+login	toby
+benefits check
+check contribution
+logout
+login	toby
+check contribution
+contribution toby  7000  56
+ions WHERE name=('toby')
+contribution toby  7000  56
+ions WHERE name=('toby')
+login	josh
+login	josh
